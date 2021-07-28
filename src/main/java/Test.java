@@ -5,6 +5,6 @@ public class Test {
         System.out.println("master");
         System.out.println("zzz");
         System.out.println("push");
-
+System.out.println("pull");
     }
 }
