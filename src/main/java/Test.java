@@ -4,6 +4,7 @@ public class Test {
         System.out.println("abc");
         System.out.println("master");
         System.out.println("zzz");
+        System.out.println("push");
 
     }
 }
